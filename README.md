@@ -4,4 +4,4 @@ Hi, here you can find information about our opencource projects. Please go to ev
 
 ### Optimus
 
-Optimus is a Data cleansing and exploration framework powered by Python and Apachae Spark [[https://github.com/ironmussa/optimus]]
+Optimus is a Data cleansing and exploration framework powered by Python and Apachae Spark [Github](https://github.com/ironmussa/optimus)
