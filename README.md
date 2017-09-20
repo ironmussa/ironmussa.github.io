@@ -1,6 +1,6 @@
-## Welcome to the Iron Mussa Opensource Projects
+## Welcome to the Iron Mussa Open Source Projects
 
-Hi, here you can find information about our opencource projects. Please go to every repo to find info, examples and documentacion.
+Hi, here you can find information about our open source projects. Please go to each repo to find info, examples and documentacion.
 
 ### Optimus
 
