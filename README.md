@@ -4,4 +4,4 @@ Hi, here you can find information about our opencource projects. Please go to ev
 
 ### Optimus
 
-Data cleansing and exploration framework powered by Python and Apachae Spark [Github](https://github.com/ironmussa/optimus)
+Data cleansing and exploration framework powered by Python and Apache Spark [Github](https://github.com/ironmussa/optimus)
